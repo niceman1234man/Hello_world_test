@@ -1,0 +1,3 @@
+project Trial
+  . html
+  . css
